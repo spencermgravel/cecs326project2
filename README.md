@@ -23,7 +23,7 @@ Running
 ----------------------------------
 
 * ./pro2_sample
-* 
+
 ## Authors
 Sebastian Vasquez
 Spencer Gravel
